@@ -32,6 +32,10 @@ note : khi ở trạng thái Staging area mà ta edit file thì sẽ chuyển v�
 
 // git revert ( ít dùng )
 
+6. 
+// .gitignore : ignore what you don't wana display when writting git status
+
+
 
 
 
