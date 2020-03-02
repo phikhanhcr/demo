@@ -1,0 +1,1 @@
+Bỏ ra bạn ei , good morning , sir, how do you feel today ? 
