@@ -1,0 +1,32 @@
+// git status 
+// git add
+// git commit -m "content"
+
+// git log 							=> Display all commits
+// git show + id
+// git restore <file>				=> khi ở trạng thái Staging area area (màu xanh) , mà ta edit lại 
+									   thì khi sử dụng nó sẽ có công dụng giống như ( Ctrl + Z ) 
+note : khi ở trạng thái Staging area mà ta edit file thì sẽ chuyển về modified( màu đỏ ) git add lại để 
+	   cho vào vùng Staging area
+
+// git restore (--staged) <file> 	=> unstage => chuyển về trạng thái khi chưa git add 
+
+	3 . tạo 1 nhánh mới 
+// git checkout -b <new branch> 	=> where am I in these branch? 
+// git checkout <branch> 			=> move to branch
+// git <branch>
+
+	4 .  1 số thuật ngữ
+// working directory 				: where am i working ?
+// Staging area area					: files are added but are not commited yet
+// git merge 						A <-- B : master <-- newBranch 
+	// git checkout A 				===> git merge B
+// git branch -D <branch> 			: delete a branch
+
+
+
+
+
+
+
+
