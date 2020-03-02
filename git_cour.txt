@@ -25,12 +25,12 @@ note : khi ở trạng thái Staging area mà ta edit file thì sẽ chuyển v�
 
 
 	5 . 
-// git reset --soft <shai Id> cho cái đã commit ra vùng staging area / modified màu xanh ( trạng thái 
+// git reset --soft <shai Id cái phía sau cái cần đưa ra ngoài > cho cái đã commit ra vùng staging area / modified màu xanh ( trạng thái 
 	trước khi vào commit )
 // git reset --mixed <shai Id> cũng như trên nhưng cho về modified màu đỏ ( working directory , chưa git add )	
 // git reset --hard <shai ID> bỏ hẳn commit phia trước  
 
-
+// git revert ( ít dùng )
 
 
 
