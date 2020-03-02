@@ -35,7 +35,9 @@ note : khi ở trạng thái Staging area mà ta edit file thì sẽ chuyển v�
 6. 
 // .gitignore : ignore what you don't wana display when writting git status
 
-
+		// how to use gitHub
+// git remote add origin "link your acc github"
+// git push -u origin <branch>
 
 
 
