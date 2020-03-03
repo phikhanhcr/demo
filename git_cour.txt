@@ -47,17 +47,3 @@ note : khi ở trạng thái Staging area mà ta edit file thì sẽ chuyển v�
 // git pull ( từ máy khác tải cái thay đổi mà máy chủ ban đầu mới push thay đổi đó lên , lưu các thay đổi ban đầu về  local )
 
 8 pull request 
-<<<<<<< HEAD
-// create a new branch 
-// put commit in it 
-// git push origin <name of new branch> 
-
-
-// resolve conflicts
-
-
-// test em ei 
-
-=======
->>>>>>> 6c7d39b65b9c788cd55f65361b363763904ba8af
-

@@ -1,1 +1,2 @@
-var a = "jhihi"
+var a = "jhihi";
+console.log(a);
